@@ -1,5 +1,17 @@
 # Project: Wordle
 ​
+This is the first project of our program using Java. I basically designed and structured my code to get a recreation of Wordle game. I also take some additional steps to interact with the user, and according to their responses continuing playing or exit the program. 
+
+## Languages and Tools
+- Java
+- Github
+
+
+## Issues, things to improve and Challenges to be done by the end of the program
+- My first approach was to create two arraylists of characters and iterate over them in order to compare them. I found it easier in this case to use two nested for loops.
+- Another challenge was to being able to read the json file to import a random word.
+- Things I would add in the future are checking if the word the user has entered exists, using emojis and add a user track. 
+
 ## MVP
 ​
 -   Recreate a simplified version of the game Wordle to be played in a Java console application
